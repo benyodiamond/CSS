@@ -1,0 +1,22 @@
+
+body{
+    text-align: center;
+    list-style-position: inside
+    
+}
+
+header {
+    background-color: rgb(230, 204, 204);
+    color: rgb(3, 3, 3);
+
+}
+h1 {
+    background-color: whitesmoke;
+    color: rgb(38, 149, 219);
+    
+}
+
+
+ul li {
+    color: blueviolet;
+}
